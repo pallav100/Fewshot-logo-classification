@@ -1,0 +1,12 @@
+Syriac_(Serto)/character01/rot000
+Syriac_(Serto)/character01/rot090
+Syriac_(Serto)/character01/rot180
+Syriac_(Serto)/character01/rot270
+Syriac_(Serto)/character02/rot000
+Syriac_(Serto)/character02/rot090
+Syriac_(Serto)/character02/rot180
+Syriac_(Serto)/character02/rot270
+Syriac_(Serto)/character03/rot000
+Syriac_(Serto)/character03/rot090
+Syriac_(Serto)/character03/rot180
+Syriac_(Serto)/character03/rot270
